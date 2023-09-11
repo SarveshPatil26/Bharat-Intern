@@ -13,13 +13,13 @@
     align-items: center;
     height: 100vh;
     text-align: center;
-    background-color: azure;
+    background-color: rgba(155, 79, 79, 0.589);
 }
 
 #calcTemp {
     padding: 29px 67px;
     min-height: 290px;
-    background-color: #cdd8fd;
+    background-color: #84a2dde8;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
 }
 
